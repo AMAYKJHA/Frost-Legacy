@@ -1,0 +1,16 @@
+# apple = Apple(19*40, 18*40) # apple for level 1
+# apple_1 = Apple(15*40, 12*40) # apple 1 for level 2
+# apple_2 = Apple(19*40, 10*40) # apple 2 for level 2
+# potion = HealingPotion(29*40, 6*40) # potion for level 2
+# apple_1 = Apple(22*40, 8*40) # apple 1 for level 3
+# apple_2 = Apple(27*40, 8*40) # apple 2 for level 3
+# apple_3 = Apple(33*40, 8*40) # apple 3 for level 3
+# thorn_1 = Thorn(11*40, 12*40) # thorn 1 for level 3
+# thorn_2 = Thorn(17*40, 9*40) # thorn 2 for level 3
+# thorn_3 = Thorn(24*40, 10*40) # thorn 3 for level 3
+# thorn_4 = Thorn(25*40, 10*40) # thorn 4 for level 3
+# thorn_5 = Thorn(30*40, 9*40) # thorn 5 for level 3
+
+# zombie = Zombie(20*40, 12*40,(1*40, 27*40)) # zombie for level 4
+# zombie_1 = Zombie(10*40, 15*40,(3*40, 15*40)) # zombie 1 for level 5
+# zombie_2 = Zombie(30*40, 15*40,(26*40, 32*40)) # zombie 2 for level 5
