@@ -28,35 +28,3 @@ Frost Legacy is a 2D platformer game built using Pygame. The game features multi
 To start the game, run the [main.py](http://_vscodecontentref_/0) file:
 ```sh
 python main.py
-```
-## Project Structure
-.
-├── assets/
-│   ├── button/
-│   ├── characters/
-│   ├── Fonts/
-│   ├── map/
-│   ├── music/
-│   ├── others/
-│   └── svg/
-├── levels/
-│   ├── Level1_data
-│   ├── Level2_data
-│   ├── Level3_data
-│   ├── Level4_data
-│   ├── Level5_data
-│   ├── Level6_data
-│   ├── Level7_data
-│   └── saved_level_data/
-├── .gitattributes
-├── bonus.py
-├── dungeon_map.py
-├── enemy.py
-├── icon.ico
-├── Level Editor.py
-├── levelmanager.py
-├── main.py
-├── player.py
-├── statesmanager.py
-├── ui.py
-└── world.py
