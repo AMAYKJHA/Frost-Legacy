@@ -2,6 +2,12 @@
 
 Frost Legacy is a 2D platformer game built using Pygame. The game features multiple levels, enemies, bonuses, and a dungeon map. The player controls a knight character, navigating through various levels, defeating enemies, and collecting bonuses.
 
+
+## 📸 Screenshots
+<img src="assets/home.png" width=800>
+<br/>
+<img src="assets/level3.png" width=800>
+
 ## Table of Contents
 
 - [Installation](#installation)
